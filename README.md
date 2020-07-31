@@ -1,4 +1,4 @@
-![Header Image](https://lh3.googleusercontent.com/proxy/0cvt7i77bhEVqWcaHGoZrK6AA5-PPvgcArYs_CwfI0QgMzinkltrAxaMFTJg-plzvnYtcJ6PXh6ys0j6--CRMczVbBZjan5FYdtCHX1-bQYgdJdKPkhpjswdYE_YeL8F4Ch6LQk)
+![Header Image](https://i7.pngguru.com/preview/135/678/551/wallpaper-welcome-transparent-background.jpg)
 
 <p style="text-align: center">
 
