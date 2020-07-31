@@ -1,8 +1,6 @@
-
 ![Header Image](https: // filemetrix.com / wp - content / uploads / 2020 / 01 / welcome - USB - Driver.jpg)
 
-< p,,
-style = "text-align: center" >
+< p style = "text-align: center" >
 
 [![](https: // img.shields.io / badge / -Connect - % 230077
 B5?style =
