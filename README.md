@@ -1,4 +1,4 @@
-![Header Image](https://i.ya-webdesign.com/images/welcome-gif-png-15.gif)
+![Header Image](https://assileye.com/blog/wp-content/uploads/2019/10/welcome.jpg)
 
 <p style="text-align: center">
 
