@@ -1,4 +1,4 @@
-![Header Image](https://lh3.googleusercontent.com/proxy/sUOn7r3akmXn5Apts0uWTp2ugh7Jttgwx-KgKBfywD7_sPwScxmWbeI3RbXLUNAlobBIP4g2oz1FXamHcQq_mCeipcJhlesmm0TodQZ-isfyHwblLdXkBSBVE8gqBteFi2__ZNNj25lIJot8qY_T8thEI6Ino6pciwqsOg7Cs0WKrXrIdA)
+![Header Image](https://t3.ftcdn.net/jpg/02/20/14/38/240_F_220143804_fc4xRygvJ8bn8JPQumtHJieDN4ORNyjs.jpg)
 
 <p style="text-align: center">
 
