@@ -32,9 +32,11 @@
  <ul class="u1">
      <br>
     <li>&#9758; PySpark, MySQL, Databricks, Data Factory, Python, C, and Data Structures</li>
-            <li>&#9758; Basic knowledge of HTML/CSS</li>
-            <li>&#9758; Seeking a position where I can utilize my technical and personal skills while contributing to the organization's growth</li>
-            <li>&#9758; Joy of Computing Using Python</li>
+        <li>&#9758; PySpark, MySQL, Databricks, Azure Data Factory, Azure Synapse Analytics, Delta Lake, Python, C, and Data Structures</li>
+        <li>&#9758; Basic knowledge of HTML/CSS</li>
+        <li>&#9758; Experience with Azure Data Services including ADLS, Azure Blob Storage, and Azure Databricks integration</li>
+        <li>&#9758; Seeking a position where I can utilize my technical and personal skills while contributing to the organization's growth</li>
+        <li>&#9758; Joy of Computing Using Python</li>
   
 </ul>                                                                                                   
 
@@ -47,4 +49,3 @@
 
 
 
-grammer and indentation sahi krke do
