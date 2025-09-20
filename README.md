@@ -25,7 +25,7 @@
     
  <div class="w2"> 
  <div class="c">
- <b> ➤  System Engineer @ TCS </b>
+ <b> ➤  Data Engineer @ TCS </b>
 </div>    <b>&nbsp;&nbsp;&nbsp;&#9758;&nbsp;Pursued B.Tech in Computer Science  & Engineering 
         <span class="p"><a href="http://bcrec.ac.in/index.htm" class="raj" style="text-decoration:none" target="_blank">    @Dr. B. C. Roy Engineering College,Durgapur</a></span>
     </b>
